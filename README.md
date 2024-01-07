@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently working on **Samsung**
+- 🔭 I’m currently working on **Samsung Softlogic** for a graphic designer
 
 - 🌱 I’m currently learning **React**
 

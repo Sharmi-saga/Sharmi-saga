@@ -13,11 +13,11 @@
 
 
 
-- 🔭 I’m currently working on **Samsung Softlogic** for a graphic designer
+- 🔭 I’m currently Studying on **Uva wellassa university of Sri Lanka** for a graphic designer
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ReactNative | Angular**
 
-- 🤝 I’m looking for help with **frontend Development**
+- 🤝 I’m looking for help with **Softwar Development,Graphic Designing , ML developments**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

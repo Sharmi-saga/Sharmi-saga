@@ -11,7 +11,6 @@
 - 🔭 Currently studying **Graphic Design** at **Uva Wellassa University of Sri Lanka**.
 - 🌱 Currently learning **React Native**, **Angular**, and expanding my knowledge in **Machine Learning**.
 - 🤝 Seeking collaboration opportunities in **Software Development**, **Graphic Design**, and **Machine Learning Projects**.
-  
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
@@ -25,8 +24,8 @@
   <a href="https://reactnative.dev" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Native" width="40" height="40" />
   </a>
-  <a href="https://mqtt.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/MQTT_icon.svg" alt="MQTT" width="40" height="40" />
+  <a href="https://www.deos-ag.com/en/blog/introduction-to-mqtt-the-messaging-protocol-for-the-internet-of-things/" target="_blank" rel="noreferrer">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deos-ag.com%2Fen%2Fblog%2Fintroduction-to-mqtt-the-messaging-protocol-for-the-internet-of-things%2F&psig=AOvVaw1L2gWV9iIi_Ik_jfzEY2kY&ust=1754328035504000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMihvq6T744DFQAAAAAdAAAAABAE" alt="MQTT" width="40" height="40" />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
@@ -50,9 +49,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
 </p>
-
-
-
 
 <h3 align="left">GitHub Stats & Streaks:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmi-saga&show_icons=true&locale=en&layout=compact" alt="sharmi-saga" /></p>

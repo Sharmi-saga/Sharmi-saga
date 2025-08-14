@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=ayshashafan&label=Profile%20views&color=0e75b6&style=flat" alt="sharmi-saga" />
 </p>
 
-- 🔭 Currently studying **Graphic Design** at **Uva Wellassa University of Sri Lanka**.
+- 🔭 Currently studying **Information and Communication technology degree program** at **Uva Wellassa University of Sri Lanka**.
 - 🌱 Currently learning **React Native**, **Angular**, and expanding my knowledge in **Machine Learning**.
 - 🤝 Seeking collaboration opportunities in **Software Development**, **Graphic Design**, and **Machine Learning Projects**.
 
